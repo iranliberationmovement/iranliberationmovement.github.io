@@ -1,0 +1,8 @@
+{
+    "editor.minimap.maxColumn": 80,
+    "editor.rulers": [80,120],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ff4081"
+    },
+    "editor.wordWrap": "wordWrapColumn"
+}
