@@ -1,0 +1,37 @@
+Todo: نوشتن پیش‌گفتار
+Todo: معرفی پروژه‌های وی‌چنج و «برای مردم‌سالاری»
+Todo: نمونه‌های موجود (در تایوان و ) اتحادیه‌ی اروپا
+Todo: معرفی منابع
+
+
+فهرست
+
+	پیش‌گفتار
+	مردم‌سالاری دیجیتال
+		شفافیت
+		گفتگو و تعمیق در مسایل
+		نظرسنجی
+		شبکه‌سازی
+		امنیت
+			مقاومت در برابر حملات
+				سانسور
+				ربات‌ها
+				دزدی هویت
+				ناشناسی و حفظ حریم خصوصی و گروهی
+		نرم‌افزار و چاره‌های پیشنهادی
+	منابع
+
+
+نرم‌افزار و چاره‌های پیشنهادی (وضعیت توسعه‌)
+	معرفی پروژه‌ی وی‌چنج: 
+		راهنما
+		https://wechange.de/group/iran-liberation-movement/document/1063072903/edit
+		تخته‌ی کانبان پروژه
+		https://github.com/armantorkzaban/cosinnus-devops/projects/1
+
+	معرفی پروژه‌ی برای مردم‌سالاری
+		پروژه‌ی شبکه‌ی آسان‌سازی مشارکت مردمی	
+			https://wechange.de/group/vernetzung-buergerinnenbeteiligung/
+			https://platform.projecttogether.org/public/initiative/iFG5iIfXefZYICETAmpC4Kj9G023?view=public
+
+		https://fuerdem.de (نسخه‌ی آلمانی)
